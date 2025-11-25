@@ -1,4 +1,4 @@
-# 🗺️ German Boreholes Visualization
+# 🗺️ Germany Boreholes Visualization
 
 Interactive mapping tool for visualizing German borehole coordinates on an interactive map with multiple dataset overlay support.
 
