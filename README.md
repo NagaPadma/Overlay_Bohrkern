@@ -22,7 +22,7 @@ pip install pandas numpy folium pyproj openpyxl
 
 ### Usage
 
-1. **Update your configuration** in `german_boreholes_map.py`:
+1. **Update your configuration** in `overlay_4`:
 
 ```python
 DATASETS = [
